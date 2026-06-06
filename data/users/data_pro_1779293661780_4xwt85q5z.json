@@ -20,5 +20,6 @@
   "device_id": "dev_1779293661780_1e93v6cle",
   "ip": "45.241.6.108",
   "is_verified": false,
-  "complaints_count": 0
+  "complaints_count": 0,
+  "hidden": true
 }
