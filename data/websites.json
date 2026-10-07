@@ -1,5 +1,22 @@
 [
   {
+    "id": "site-1791374511902",
+    "title": "نظام تشغيل",
+    "url": "https://coolkilledos.vercel.app",
+    "description": "نظام تشغيل كمال دخل الويب",
+    "category": "نظام تشغيل",
+    "status": "active",
+    "statusLabel": "نشط ومتاح 🚀",
+    "icon": "👑",
+    "thumbnail": "",
+    "isFeatured": false,
+    "tags": [
+      "نظام تشغيل كامل"
+    ],
+    "updatedAt": "2026-10-07T12:01:51.902Z",
+    "createdAt": "2026-10-07T12:01:51.902Z"
+  },
+  {
     "id": "site-1791374245864",
     "title": "تخزين سحابي",
     "url": "https://coolvault.vercel.app",
