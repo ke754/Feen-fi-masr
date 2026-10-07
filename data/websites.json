@@ -1,0 +1,63 @@
+[
+  {
+    "id": "site-feen-fi-masr",
+    "title": "منصة فين في مصر (Feen Fi Masr)",
+    "url": "https://feen-fi-masr.com",
+    "description": "الدليل الرقمي الذكي المتكامل لأصحاب المهن والشركات وصناع المحتوى في كافة محافظات مصر، مدعوم بالذكاء الاصطناعي والخرائط التفاعلية والتحقق الموثوق.",
+    "category": "منصات خدمية ورقمية",
+    "status": "active",
+    "statusLabel": "نشط ومتاح للجمهور 🚀",
+    "icon": "🏰",
+    "thumbnail": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=800&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "tags": [
+      "React",
+      "Express",
+      "AI",
+      "Map",
+      "Egypt"
+    ],
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-10-07"
+  },
+  {
+    "id": "site-dark-commerce",
+    "title": "متجر Dark Store للتجارة الإلكترونية",
+    "url": "https://dark-store-eg.com",
+    "description": "متجر إلكتروني فائق السرعة مخصص للمعدات التقنية وأجهزة المطورين مع بوابات دفع محلية (فودافون كاش، فوري، فيزا) وتتبع شحنات ذكي.",
+    "category": "تجارة إلكترونية",
+    "status": "active",
+    "statusLabel": "شغال ومتكامل 🛒",
+    "icon": "💎",
+    "thumbnail": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=800&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "tags": [
+      "E-Commerce",
+      "Payments",
+      "Fast",
+      "Tailwind"
+    ],
+    "createdAt": "2026-05-10",
+    "updatedAt": "2026-10-07"
+  },
+  {
+    "id": "site-dark-cyber-hub",
+    "title": "مركز King Dark للأمن السيبراني والمراقبة",
+    "url": "https://dark-cyber-monitor.io",
+    "description": "منظومة دفاعية ذكية لمراقبة السيرفرات الفرعية، كشف محاولات الاختراق، حظر عناوين IP المشبوهة، وتحليل الأخطاء في الوقت الفعلي.",
+    "category": "حماية وأمن معلومات",
+    "status": "active",
+    "statusLabel": "حماية نشطة 🛡️",
+    "icon": "⚡",
+    "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "tags": [
+      "Security",
+      "Firewall",
+      "Monitoring",
+      "Logs"
+    ],
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-10-07"
+  }
+]
