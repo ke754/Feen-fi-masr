@@ -19,25 +19,5 @@
     ],
     "createdAt": "2026-01-01",
     "updatedAt": "2026-10-07"
-  },
-  {
-    "id": "site-dark-cyber-hub",
-    "title": "مركز King Dark للأمن السيبراني والمراقبة",
-    "url": "https://dark-cyber-monitor.io",
-    "description": "منظومة دفاعية ذكية لمراقبة السيرفرات الفرعية، كشف محاولات الاختراق، حظر عناوين IP المشبوهة، وتحليل الأخطاء في الوقت الفعلي.",
-    "category": "حماية وأمن معلومات",
-    "status": "active",
-    "statusLabel": "حماية نشطة 🛡️",
-    "icon": "⚡",
-    "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&auto=format&fit=crop&q=80",
-    "isFeatured": true,
-    "tags": [
-      "Security",
-      "Firewall",
-      "Monitoring",
-      "Logs"
-    ],
-    "createdAt": "2026-07-20",
-    "updatedAt": "2026-10-07"
   }
 ]
